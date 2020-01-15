@@ -1,0 +1,1 @@
+To start the program, please run "menu.py".
